@@ -1,0 +1,2 @@
+EPICS_BASE=/repos/epics/epics-base
+PCAS=/repos/epics/epics-extensions/pcas
